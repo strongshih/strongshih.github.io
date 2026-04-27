@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-My name is Chengjhih Shih. I'm a first-year PhD student at Georgia Tech's EIC Lab, supervised by Prof. Yingyan (Celine) Lin. My research interests include computer architecture and high-performance computing, with a focus on 3D neural rendering acceleration and chiplet accelerators.
+My name is Chengjhih Shih. I'm a second-year PhD student at Georgia Tech's EIC Lab, supervised by Prof. Yingyan (Celine) Lin. My research interests include computer architecture and high-performance computing, with a focus on 3D neural rendering modeling, LLM GPU acceleration, and LLM heterogenous system acceleration.
 
-**Will be more descriptions about my PhD journey in the future**
 
 Before coming to Georgia Tech, I received my BS and MS from the Department of Computer Science at National Taiwan University (NTU), where I worked on a variety of research projects:
 
